@@ -1,0 +1,47 @@
+
+
+
+The user chose to add data: 1 times
+The user chose to delete data: 0 times
+The user chose to update data: 1 times
+The user chose to display data: 1 times
+The user chose to search data: 1 times
+The user chose to sort data: 0 times
+The date of last update: Sat Feb 11 17:03:03 2023
+
+
+The user chose to add data: 1 times
+The user chose to delete data: 1 times
+The user chose to update data: 0 times
+The user chose to display data: 2 times
+The user chose to search data: 1 times
+The user chose to sort data: 0 times
+The date of last update: Sat Feb 11 17:41:59 2023
+
+
+The user chose to add data: 0 times
+The user chose to delete data: 0 times
+The user chose to update data: 0 times
+The user chose to display data: 1 times
+The user chose to search data: 0 times
+The user chose to sort data: 0 times
+The date of last update: Sat Feb 11 18:03:41 2023
+
+
+The user chose to add data: 1 times
+The user chose to delete data: 0 times
+The user chose to update data: 0 times
+The user chose to display data: 1 times
+The user chose to search data: 0 times
+The user chose to sort data: 0 times
+The date of last update: Sat Feb 11 18:49:57 2023
+
+
+The user chose to add data: 0 times
+The user chose to delete data: 0 times
+The user chose to update data: 0 times
+The user chose to display data: 1 times
+The user chose to search data: 0 times
+The user chose to sort data: 0 times
+The date of last update: Sat Feb  8 16:25:13 2025
+
